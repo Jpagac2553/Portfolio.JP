@@ -1,0 +1,67 @@
+body{
+    background-color: grey;
+    margin: 20px;
+}
+/** wanted a darker background to offset my text*/
+
+/**throughout the headings and paragraphs i wanted most of the text uniform in font fam,color and size, depending on content*/
+h1{
+    font-family: 'monaco';
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    align-items: center;
+  }
+  
+  h2{
+    font-family: "monaco";
+    font-size: 25px;
+    color: black;
+    text-align: center;
+  }
+  
+  h3{
+    font-family: "copperplate";
+    font-size: 25px;
+    color: black;
+    text-align: center;
+  }
+  
+  
+  
+  
+  p{
+  font-family: "monaco";
+    font-size: 20px;
+    color: black;
+    text-align: center;
+  }
+  
+  p1{
+    font-family: "monaco";
+    font-size: 20px;
+    color: black;
+    text-align: center;
+  }
+  
+  p2{
+    font-family: "monaco";
+    font-size: 20px;
+    color: black;
+    text-align: center;
+  }
+  
+  p3{
+    font-family: "monaco";
+    font-size: 20px;
+    color: black;
+    text-align: center;
+  }
+
+  p4{
+    font-family: "monaco";
+    font-size: 20px;
+    color: black;
+    text-align: center;
+  }
+  
